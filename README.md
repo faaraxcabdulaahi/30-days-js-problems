@@ -27,4 +27,4 @@ To get started with the 30 Days of JavaScript Problems, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/30-days-javascript-problems.git
+   git clone https://github.com/faaraxcabdulaahi/30-days-js-problems
