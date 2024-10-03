@@ -3,11 +3,11 @@ const fizzBuzz = () => {
   
     do {
       if (index % 3 === 0 && index % 5 === 0) {
-        console.log("FizzBuzz");
+        console.log(index,"FizzBuzz");
       } else if (index % 3 === 0) {
-        console.log("Fizz");
+        console.log(index,"Fizz");
       } else if (index % 5 === 0) {
-        console.log("Buzz");
+        console.log(index,"Buzz");
       } else {
         console.log(index); 
       }
