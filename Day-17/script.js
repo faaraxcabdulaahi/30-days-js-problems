@@ -1,14 +1,2 @@
-
-
-const isWordPresent = (theSentence,theWord) => theSentence.includes(theWord);
-const theSentence = "Today is day 18 of me solving javascript problem 18";
-const theWord = prompt("Enter the word in the sentence");
-console.log(isWordPresent(theSentence,theWord));
-
-
-
-
-
-
-
-
+let theArray = [0, 1, false, 2, "", null, NaN, 4, undefined].filter(Boolean);
+console.log(theArray);
