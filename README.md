@@ -15,11 +15,6 @@ Learning to code is a journey, and like any journey, it requires consistent prac
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Problem Statements](#problem-statements)
-- [Solution Guidelines](#solution-guidelines)
-- [Contributing](#contributing)
-- [Resources](#resources)
-- [License](#license)
 
 ## Getting Started
 
